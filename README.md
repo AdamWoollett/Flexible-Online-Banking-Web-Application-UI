@@ -12,9 +12,9 @@ A preview of what this project looks like when deployed can be viewed on Vercel 
 ## Project Structure
 ```
 Flexible-Online-Banking-Web-Application-UI/
-└─Images/                                    #Images used in the application.
+└─Images/                                    #Directory of images used in the application.
 ├    └─ Fake Bank Logo.png
 ├─ README.md
-├─ index.html
-└─ style.css
+├─ index.html                                # Landing page.
+└─ style.css                                 # Styling for the page.
 ```
